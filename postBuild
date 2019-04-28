@@ -9,3 +9,5 @@ tar xzf syncthing-linux-amd64-v1.1.1.tar.gz -C /tmp/syncthing
 
 mkdir -p ~/.local/bin
 mv /tmp/syncthing/syncthing-linux-amd64-v1.1.1/syncthing ~/.local/bin/syncthing
+
+pip install -U git+https://github.com/yuvipanda/nbserverproxy@fix-http
