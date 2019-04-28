@@ -7,4 +7,5 @@ wget https://github.com/syncthing/syncthing/releases/download/v1.1.1/syncthing-l
 mkdir /tmp/syncthing
 tar xzf syncthing-linux-amd64-v1.1.1.tar.gz -C /tmp/syncthing
 
+mkdir -p ~/.local/bin
 mv /tmp/syncthing/syncthing-linux-amd64-v1.1.1/syncthing ~/.local/bin/syncthing
