@@ -2,7 +2,7 @@
 set -e
 
 cd /tmp
-wget https://github.com/syncthing/syncthing/releases/download/v1.0.0/syncthing-linux-amd64-v1.1.1.tar.gz
+wget https://github.com/syncthing/syncthing/releases/download/v1.1.1/syncthing-linux-amd64-v1.1.1.tar.gz
 
 mkdir /tmp/syncthing
 tar xzf syncthing-linux-amd64-v1.0.0.tar.gz -C /tmp/syncthing
