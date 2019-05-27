@@ -1,1 +1,1 @@
-jupyter-syncthing-proxy
+numpy
