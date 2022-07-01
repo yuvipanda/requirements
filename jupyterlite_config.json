@@ -1,5 +1,5 @@
 {
     "XeusPythonEnv": {
-        "packages": ["numpy", "matplotlib", "ipyleaflet", "datascience"]
+        "packages": ["numpy", "matplotlib", "ipyleaflet", "flask"]
     }
 }
