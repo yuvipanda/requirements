@@ -1,2 +1,2 @@
-emacs
-tmux
+nfs-common
+libnfs-utils
